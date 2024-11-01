@@ -1,0 +1,647 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wisy Page Builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-15 00:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.0.8"
+
+#: includes/action-hooks.php:126 blocks/audio/audio.php:48
+#: blocks/video/video.php:85
+msgid "Default"
+msgstr ""
+
+#: includes/action-hooks.php:127
+msgctxt "block-settings"
+msgid "Top"
+msgstr ""
+
+#: includes/action-hooks.php:128
+msgctxt "block-settings"
+msgid "Right"
+msgstr ""
+
+#: includes/action-hooks.php:129
+msgctxt "block-settings"
+msgid "Bottom"
+msgstr ""
+
+#: includes/action-hooks.php:130
+msgctxt "block-settings"
+msgid "Left"
+msgstr ""
+
+#: includes/class-wisy-editor.php:131
+msgid "Move Widget"
+msgstr ""
+
+#: includes/class-wisy-editor.php:132
+msgid "Duplicate Widget"
+msgstr ""
+
+#: includes/class-wisy-editor.php:133
+msgid "Delete Widget"
+msgstr ""
+
+#: includes/class-wisy-editor.php:146
+msgid "Move Column"
+msgstr ""
+
+#: includes/class-wisy-editor.php:147
+msgid "Duplicate Column"
+msgstr ""
+
+#: includes/class-wisy-editor.php:148
+msgid "Delete Column"
+msgstr ""
+
+#: includes/class-wisy-editor.php:162
+msgid "Move Row"
+msgstr ""
+
+#: includes/class-wisy-editor.php:163
+msgid "Duplicate Row"
+msgstr ""
+
+#: includes/class-wisy-editor.php:164
+msgid "Delete Row"
+msgstr ""
+
+#: includes/filter-hooks.php:44 blocks/audio/audio.php:25
+#: blocks/button/button.php:25 blocks/column/column.php:30
+#: blocks/countdown-timer/countdown-timer.php:25
+#: blocks/gdpr-notice/gdpr-notice.php:25 blocks/icon/icon.php:25
+#: blocks/image/image.php:22 blocks/row/row.php:27
+#: blocks/search-box/search-box.php:21 blocks/shortcode/shortcode.php:22
+#: blocks/text/text.php:22 blocks/video/video.php:22
+msgid "General"
+msgstr ""
+
+#: includes/filter-hooks.php:51 blocks/audio/audio.php:28
+#: blocks/button/button.php:28 blocks/countdown-timer/countdown-timer.php:28
+#: blocks/gdpr-notice/gdpr-notice.php:28 blocks/icon/icon.php:28
+#: blocks/image/image.php:25 blocks/row/row.php:30
+#: blocks/search-box/search-box.php:24 blocks/text/text.php:25
+#: blocks/video/video.php:29
+msgid "Style"
+msgstr ""
+
+#: includes/filter-hooks.php:58 blocks/button/button.php:36
+#: blocks/column/column.php:33 blocks/countdown-timer/countdown-timer.php:35
+#: blocks/icon/icon.php:35 blocks/row/row.php:38
+msgid "Advanced"
+msgstr ""
+
+#: includes/filter-hooks.php:64 includes/filter-hooks.php:69
+msgid "Block Box"
+msgstr ""
+
+#: includes/filter-hooks.php:80
+msgid "Align"
+msgstr ""
+
+#: includes/filter-hooks.php:85
+msgid "Center"
+msgstr ""
+
+#: includes/filter-hooks.php:86 blocks/button/button.php:71
+msgid "Left"
+msgstr ""
+
+#: includes/filter-hooks.php:87 blocks/button/button.php:72
+msgid "Right"
+msgstr ""
+
+#: includes/filter-hooks.php:95 blocks/button/button.php:165
+#: blocks/countdown-timer/countdown-timer.php:147 blocks/icon/icon.php:127
+#: blocks/image/image.php:73
+msgid "Border Width"
+msgstr ""
+
+#: includes/filter-hooks.php:105 blocks/button/button.php:175
+#: blocks/countdown-timer/countdown-timer.php:157 blocks/icon/icon.php:137
+#: blocks/image/image.php:83
+msgid "Border Color"
+msgstr ""
+
+#: includes/filter-hooks.php:118 blocks/button/button.php:187
+#: blocks/countdown-timer/countdown-timer.php:169 blocks/icon/icon.php:149
+#: blocks/image/image.php:95
+msgid "Border Style"
+msgstr ""
+
+#: includes/filter-hooks.php:124
+msgid "-Select-"
+msgstr ""
+
+#: includes/filter-hooks.php:125 blocks/button/button.php:193
+#: blocks/countdown-timer/countdown-timer.php:176 blocks/icon/icon.php:156
+#: blocks/image/image.php:101
+msgid "Solid"
+msgstr ""
+
+#: includes/filter-hooks.php:135
+msgid "Padding"
+msgstr ""
+
+#. 1: CSS units
+#: includes/filter-hooks.php:146 includes/filter-hooks.php:167
+#, php-format
+msgctxt "settings-alerts"
+msgid "Enter value with valid CSS unit %1$s."
+msgstr ""
+
+#: includes/filter-hooks.php:156
+msgid "Margin"
+msgstr ""
+
+#: includes/filter-hooks.php:177
+msgid "Z-Index"
+msgstr ""
+
+#: includes/filter-hooks.php:188
+msgid "Visibility"
+msgstr ""
+
+#: includes/filter-hooks.php:192
+msgid "Visible"
+msgstr ""
+
+#: includes/filter-hooks.php:193
+msgid "Hidden"
+msgstr ""
+
+#: includes/filter-hooks.php:202
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/filter-hooks.php:209
+#, php-format
+msgctxt "settings-alerts"
+msgid "\"%1$s\" will be changed to block ID."
+msgstr ""
+
+#: includes/filter-hooks.php:216
+msgid "Block ID"
+msgstr ""
+
+#: includes/filter-hooks.php:244
+msgid "Edit With Wisy"
+msgstr ""
+
+#: admin/pages/editor.php:12
+msgid "Sorry, this item doesn't exist."
+msgstr ""
+
+#: admin/pages/editor.php:17
+msgid "Sorry, you are not allowed to edit this item."
+msgstr ""
+
+#: admin/pages/editor.php:32 admin/pages/editor.php:103
+#: admin/pages/new-post.php:29
+msgid "Wisy Builder"
+msgstr ""
+
+#: admin/pages/editor.php:106
+msgid "Undo"
+msgstr ""
+
+#: admin/pages/editor.php:109
+msgid "Redo"
+msgstr ""
+
+#: admin/pages/editor.php:114
+msgid "Save"
+msgstr ""
+
+#: admin/pages/editor.php:116
+msgid "Your changes aren't saved yet"
+msgstr ""
+
+#: admin/pages/editor.php:118
+msgid "Preview"
+msgstr ""
+
+#: admin/pages/editor.php:121
+msgid "Screen Size"
+msgstr ""
+
+#: admin/pages/editor.php:124
+msgid "Desktop Screen"
+msgstr ""
+
+#: admin/pages/editor.php:127
+msgid "Tablet Screen"
+msgstr ""
+
+#: admin/pages/editor.php:130
+msgid "Phone Screen"
+msgstr ""
+
+#: admin/pages/editor.php:155 admin/pages/editor.php:201
+#: admin/pages/new-post.php:106
+msgid "Add New"
+msgstr ""
+
+#: admin/pages/editor.php:162 blocks/row/row.php:20
+msgid "Row"
+msgstr ""
+
+#: admin/pages/editor.php:166 blocks/column/column.php:23
+msgid "Column"
+msgstr ""
+
+#: admin/pages/editor.php:208
+msgid "No"
+msgstr ""
+
+#: admin/pages/editor.php:209
+msgid "Yes"
+msgstr ""
+
+#: admin/pages/new-post.php:29
+msgid "New"
+msgstr ""
+
+#: admin/pages/new-post.php:109
+msgid "Enter title"
+msgstr ""
+
+#: admin/pages/new-post.php:111
+msgid "Draft"
+msgstr ""
+
+#: admin/pages/new-post.php:112
+msgid "Publish"
+msgstr ""
+
+#: admin/pages/new-post.php:114
+msgid "Create"
+msgstr ""
+
+#: admin/pages/new-post.php:121
+msgid "Back to Dashboard"
+msgstr ""
+
+#: blocks/audio/audio.php:18 blocks/audio/audio.php:37
+msgid "Audio"
+msgstr ""
+
+#: blocks/audio/audio.php:40
+msgid "Select Audio"
+msgstr ""
+
+#: blocks/audio/audio.php:44 blocks/video/video.php:81
+msgid "Video Player"
+msgstr ""
+
+#: blocks/audio/audio.php:49 blocks/video/video.php:86
+msgid "Plyr (plyr.io)"
+msgstr ""
+
+#: blocks/audio/audio.php:54 blocks/video/video.php:91
+msgid "Player Color"
+msgstr ""
+
+#: blocks/audio/audio.php:63 blocks/button/button.php:135
+#: blocks/countdown-timer/countdown-timer.php:112 blocks/icon/icon.php:97
+#: blocks/image/image.php:65 blocks/row/row.php:108 blocks/video/video.php:100
+msgid "Border Radius"
+msgstr ""
+
+#: blocks/button/button.php:18
+msgid "Button"
+msgstr ""
+
+#: blocks/button/button.php:30 blocks/countdown-timer/countdown-timer.php:30
+#: blocks/icon/icon.php:30
+msgid "Colors"
+msgstr ""
+
+#: blocks/button/button.php:31 blocks/text/text.php:27
+msgid "Typography"
+msgstr ""
+
+#: blocks/button/button.php:32 blocks/countdown-timer/countdown-timer.php:31
+#: blocks/icon/icon.php:31
+msgid "Border"
+msgstr ""
+
+#: blocks/button/button.php:45 blocks/gdpr-notice/gdpr-notice.php:47
+msgid "Button Text"
+msgstr ""
+
+#: blocks/button/button.php:48
+msgid "Click Button"
+msgstr ""
+
+#: blocks/button/button.php:51 blocks/icon/icon.php:49
+#: blocks/image/image.php:46
+msgid "Link"
+msgstr ""
+
+#: blocks/button/button.php:61 blocks/icon/icon.php:18 blocks/icon/icon.php:44
+msgid "Icon"
+msgstr ""
+
+#: blocks/button/button.php:66
+msgid "Icon Position"
+msgstr ""
+
+#: blocks/button/button.php:77 blocks/countdown-timer/countdown-timer.php:74
+#: blocks/icon/icon.php:71 blocks/row/row.php:84
+msgid "Background Color"
+msgstr ""
+
+#: blocks/button/button.php:90 blocks/countdown-timer/countdown-timer.php:100
+#: blocks/gdpr-notice/gdpr-notice.php:72 blocks/text/text.php:59
+msgid "Text Color"
+msgstr ""
+
+#: blocks/button/button.php:104 blocks/gdpr-notice/gdpr-notice.php:100
+#: blocks/text/text.php:68
+msgid "Font Size"
+msgstr ""
+
+#: blocks/button/button.php:116 blocks/gdpr-notice/gdpr-notice.php:112
+#: blocks/text/text.php:80
+msgid "Font Family"
+msgstr ""
+
+#: blocks/button/button.php:125 blocks/text/text.php:89
+msgid "Font Weight"
+msgstr ""
+
+#: blocks/button/button.php:147
+msgid "Button Padding"
+msgstr ""
+
+#: blocks/button/button.php:156
+msgid "Button Margin"
+msgstr ""
+
+#: blocks/button/button.php:194 blocks/countdown-timer/countdown-timer.php:177
+#: blocks/icon/icon.php:157
+msgid "Dashed"
+msgstr ""
+
+#: blocks/button/button.php:195 blocks/countdown-timer/countdown-timer.php:178
+#: blocks/icon/icon.php:158
+msgid "Dotted"
+msgstr ""
+
+#: blocks/column/column.php:42
+msgid "Width"
+msgstr ""
+
+#: blocks/countdown-timer/countdown-timer.php:18
+msgid "Countdown Timer"
+msgstr ""
+
+#: blocks/countdown-timer/countdown-timer.php:44
+msgid "End Date"
+msgstr ""
+
+#: blocks/countdown-timer/countdown-timer.php:51
+msgid "Numbers Size"
+msgstr ""
+
+#: blocks/countdown-timer/countdown-timer.php:62
+msgid "Text Size"
+msgstr ""
+
+#: blocks/countdown-timer/countdown-timer.php:87
+msgid "Color"
+msgstr ""
+
+#: blocks/countdown-timer/countdown-timer.php:124
+msgid "Numbers Padding"
+msgstr ""
+
+#: blocks/countdown-timer/countdown-timer.php:135
+msgid "Unit Margin"
+msgstr ""
+
+#: blocks/countdown-timer/countdown-timer.php:175 blocks/icon/icon.php:155
+msgid "None"
+msgstr ""
+
+#: blocks/countdown-timer/countdown-timer.php:192
+msgid "Days"
+msgstr ""
+
+#: blocks/countdown-timer/countdown-timer.php:193
+msgid "Hours"
+msgstr ""
+
+#: blocks/countdown-timer/countdown-timer.php:194
+msgid "Minutes"
+msgstr ""
+
+#: blocks/countdown-timer/countdown-timer.php:195
+msgid "Seconds"
+msgstr ""
+
+#: blocks/gdpr-notice/gdpr-notice.php:18
+msgid "GDPR Notice"
+msgstr ""
+
+#: blocks/gdpr-notice/gdpr-notice.php:37
+msgid "Notice Text"
+msgstr ""
+
+#: blocks/gdpr-notice/gdpr-notice.php:42
+#, php-format
+msgid "We're using cookies in this website. <a href=\"%s\">Learn More</a>"
+msgstr ""
+
+#: blocks/gdpr-notice/gdpr-notice.php:50
+msgid "Accept"
+msgstr ""
+
+#: blocks/gdpr-notice/gdpr-notice.php:53
+msgid "Position"
+msgstr ""
+
+#: blocks/gdpr-notice/gdpr-notice.php:57
+msgid "Bottom"
+msgstr ""
+
+#: blocks/gdpr-notice/gdpr-notice.php:58
+msgid "Top"
+msgstr ""
+
+#: blocks/gdpr-notice/gdpr-notice.php:63 blocks/row/row.php:32
+msgid "Background"
+msgstr ""
+
+#: blocks/gdpr-notice/gdpr-notice.php:81
+msgid "Button Background"
+msgstr ""
+
+#: blocks/gdpr-notice/gdpr-notice.php:90
+msgid "Button Color"
+msgstr ""
+
+#: blocks/icon/icon.php:59
+msgid "Icon Size"
+msgstr ""
+
+#: blocks/icon/icon.php:84
+msgid "Icon Color"
+msgstr ""
+
+#: blocks/icon/icon.php:109
+msgid "Icon Padding"
+msgstr ""
+
+#: blocks/icon/icon.php:118
+msgid "Icon Margin"
+msgstr ""
+
+#: blocks/image/image.php:15 blocks/image/image.php:34
+msgid "Image"
+msgstr ""
+
+#: blocks/image/image.php:37 blocks/row/row.php:97 blocks/video/video.php:58
+msgid "Select Image"
+msgstr ""
+
+#: blocks/image/image.php:41
+msgid "Image Title"
+msgstr ""
+
+#: blocks/image/image.php:56
+msgid "Image Width"
+msgstr ""
+
+#: blocks/row/row.php:33
+msgid "Top Shape"
+msgstr ""
+
+#: blocks/row/row.php:34
+msgid "Bottom Shape"
+msgstr ""
+
+#: blocks/row/row.php:47
+msgid "Columns Horizontal Space"
+msgstr ""
+
+#: blocks/row/row.php:61
+msgid "Columns Vertical Space"
+msgstr ""
+
+#: blocks/row/row.php:75
+msgid "Content Width"
+msgstr ""
+
+#: blocks/row/row.php:94
+msgid "Background Image"
+msgstr ""
+
+#: blocks/row/row.php:116
+msgid "Wide Mode"
+msgstr ""
+
+#: blocks/row/row.php:120 blocks/video/video.php:76
+msgid "Enabled"
+msgstr ""
+
+#: blocks/row/row.php:121 blocks/video/video.php:77
+msgid "Disabled"
+msgstr ""
+
+#: blocks/search-box/search-box.php:15
+msgid "Search Box"
+msgstr ""
+
+#: blocks/search-box/search-box.php:32
+msgid "Placeholder Text"
+msgstr ""
+
+#: blocks/shortcode/shortcode.php:15 blocks/shortcode/shortcode.php:31
+msgid "Shortcode"
+msgstr ""
+
+#: blocks/text/text.php:15 blocks/text/text.php:37
+msgid "Text"
+msgstr ""
+
+#: blocks/text/text.php:43
+msgid "HTML tag"
+msgstr ""
+
+#: blocks/text/text.php:98
+msgid "Line Height"
+msgstr ""
+
+#: blocks/video/video.php:15 blocks/video/video.php:47
+msgid "Video"
+msgstr ""
+
+#: blocks/video/video.php:24 blocks/video/video.php:63
+msgid "YouTube Video"
+msgstr ""
+
+#: blocks/video/video.php:25
+msgid "Video From URL"
+msgstr ""
+
+#: blocks/video/video.php:38
+msgid "Video Source"
+msgstr ""
+
+#: blocks/video/video.php:42
+msgid "Local/External"
+msgstr ""
+
+#: blocks/video/video.php:43
+msgid "YouTube"
+msgstr ""
+
+#: blocks/video/video.php:50
+msgid "Select Video"
+msgstr ""
+
+#: blocks/video/video.php:55
+msgid "Poster"
+msgstr ""
+
+#: blocks/video/video.php:65
+msgid "Video URL"
+msgstr ""
+
+#: blocks/video/video.php:70
+msgid "Privacy-enhanced mode"
+msgstr ""
+
+#. Name of the plugin
+msgid "Wisy Page Builder"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Wisy Builder is a simple and usefull page builder. Building pages without "
+"any coding knowledge."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://saturtheme.com/plugins/wisy"
+msgstr ""
+
+#. Author of the plugin
+msgid "SaturTheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://saturtheme.com/"
+msgstr ""
